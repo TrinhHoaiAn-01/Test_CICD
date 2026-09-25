@@ -12,5 +12,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Say hello to Thang
+      - name: Say hello to Thanh
         run: echo "CI is working"
